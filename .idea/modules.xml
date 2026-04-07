@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/06-04-2026_DAY1/06-04-2026_DAY1.iml" filepath="$PROJECT_DIR$/06-04-2026_DAY1/06-04-2026_DAY1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Capstone-Course.iml" filepath="$PROJECT_DIR$/.idea/Capstone-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY1/DAY1.iml" filepath="$PROJECT_DIR$/DAY1/DAY1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DAY2/DAY2.iml" filepath="$PROJECT_DIR$/DAY2/DAY2.iml" />
     </modules>
   </component>
 </project>
